@@ -144,7 +144,7 @@ Based on the analysis:
 
 
 
-## 📷 Visualizations Included
+##  Visualizations Included
 
 The project includes:
 
