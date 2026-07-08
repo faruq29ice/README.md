@@ -1,6 +1,6 @@
-# 🎓 Student Performance Analysis Using Python
+#  Student Performance Analysis Using Python
 
-## 📖 Project Overview
+## Project Overview
 
 This project explores the factors that influence students' academic performance using Python and Exploratory Data Analysis (EDA).
 
@@ -8,9 +8,9 @@ The analysis investigates how study habits, attendance, sleep patterns, internet
 
 The objective is to uncover meaningful insights that can help educational institutions make informed decisions to improve student success.
 
----
 
-## 🎯 Business Problem
+
+##  Business Problem
 
 Educational institutions often seek to understand the factors that contribute to students' academic success and employability.
 
@@ -25,9 +25,9 @@ This project aims to answer the following questions:
 - What characteristics are common among students who were successfully placed?
 - Which factor has the strongest relationship with examination performance?
 
----
 
-## 📂 Dataset
+
+##  Dataset
 
 The dataset contains information on **10,000 students**, including:
 
@@ -40,9 +40,9 @@ The dataset contains information on **10,000 students**, including:
 - Final Examination Score
 - Placement Status
 
----
 
-## 🛠️ Technologies Used
+
+##  Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -50,9 +50,8 @@ The dataset contains information on **10,000 students**, including:
 - Matplotlib
 - Seaborn
 
----
 
-## 📊 Project Workflow
+##  Project Workflow
 
 ### 1. Data Loading
 - Imported the dataset into Pandas
@@ -76,25 +75,25 @@ Performed:
 - Correlation Heatmap
 - Group Comparisons
 
----
 
-## 📈 Key Findings
 
-### ✅ Study Hours had the strongest relationship with examination performance.
+##  Key Findings
+
+###  Study Hours had the strongest relationship with examination performance.
 
 Students who studied longer generally achieved higher examination scores.
 
 **Correlation:** **0.56**
 
----
 
-### ✅ Assignment completion positively influenced academic performance.
+
+###  Assignment completion positively influenced academic performance.
 
 Students who completed more assignments tended to obtain higher examination scores.
 
 **Correlation:** **0.39**
 
----
+
 
 ### ✅ Previous academic performance was associated with future performance.
 
@@ -102,7 +101,7 @@ Students with higher previous scores generally achieved higher examination score
 
 **Correlation:** **0.32**
 
----
+
 
 ### ✅ Attendance had a positive relationship with examination scores.
 
@@ -110,7 +109,7 @@ Although weaker than study hours, students with better attendance generally perf
 
 **Correlation:** **0.22**
 
----
+
 
 ### ✅ Internet usage showed a weak negative relationship.
 
@@ -118,7 +117,7 @@ Higher internet usage was slightly associated with lower examination scores.
 
 **Correlation:** **-0.15**
 
----
+
 
 ### ✅ Successfully placed students demonstrated stronger academic habits.
 
@@ -131,9 +130,9 @@ Compared to students who were not placed, placed students:
 - Achieved significantly higher examination scores
 - Spent slightly less time using the internet
 
----
 
-## 📌 Recommendations
+
+##  Recommendations
 
 Based on the analysis:
 
@@ -143,7 +142,7 @@ Based on the analysis:
 - Provide academic support for students with lower previous performance.
 - Encourage responsible internet usage and effective time management.
 
----
+
 
 ## 📷 Visualizations Included
 
@@ -156,9 +155,9 @@ The project includes:
 
 These visualizations were used to identify trends and relationships within the dataset.
 
----
 
-## 📁 Project Structure
+
+##  Project Structure
 
 ```
 Student-Performance-Analysis/
@@ -166,17 +165,17 @@ Student-Performance-Analysis/
 ├── student_dataset_analysis.ipynb
 ├── student_performance.csv
 ├── README.md
-└── images/
+
 ```
 
----
 
-## 🚀 How to Run the Project
+
+##  How to Run the Project
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/student-performance-analysis.git
+git clone https://github.com/faruq29ice/student-performance-analysis.git
 ```
 
 2. Navigate into the project folder
@@ -203,9 +202,9 @@ jupyter notebook
 student_dataset_analysis.ipynb
 ```
 
----
 
-## 💡 Skills Demonstrated
+
+##  Skills Demonstrated
 
 This project demonstrates proficiency in:
 
@@ -220,9 +219,9 @@ This project demonstrates proficiency in:
 - Matplotlib
 - Seaborn
 
----
 
-## 📚 Lessons Learned
+
+##  Lessons Learned
 
 Through this project, I strengthened my ability to:
 
@@ -233,17 +232,17 @@ Through this project, I strengthened my ability to:
 - Translate business questions into data-driven insights
 - Present analytical findings in a professional manner
 
----
 
-## 👨‍💻 Author
+
+##  Author
 
 **Adebiyi Faruq**
 
 Aspiring Data Scientist | Python Enthusiast | Data Analytics
 
----
 
-## ⭐ Future Improvements
+
+##  Future Improvements
 
 Possible extensions of this project include:
 
@@ -253,8 +252,8 @@ Possible extensions of this project include:
 - Performing feature importance analysis.
 - Hyperparameter tuning and model evaluation.
 
----
 
-## 📄 License
+
+##  License
 
 This project is intended for educational and portfolio purposes.
